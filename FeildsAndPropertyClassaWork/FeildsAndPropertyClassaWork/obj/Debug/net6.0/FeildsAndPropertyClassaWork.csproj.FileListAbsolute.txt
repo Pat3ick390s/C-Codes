@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\bin\Debug\net6.0\FeildsAndPropertyClassaWork.exe
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\bin\Debug\net6.0\FeildsAndPropertyClassaWork.deps.json
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\bin\Debug\net6.0\FeildsAndPropertyClassaWork.runtimeconfig.json
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\bin\Debug\net6.0\FeildsAndPropertyClassaWork.dll
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\bin\Debug\net6.0\FeildsAndPropertyClassaWork.pdb
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.AssemblyInfo.cs
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.dll
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\refint\FeildsAndPropertyClassaWork.dll
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.pdb
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\FeildsAndPropertyClassaWork.genruntimeconfig.cache
+C:\Users\Student\source\repos\FeildsAndPropertyClassaWork\FeildsAndPropertyClassaWork\obj\Debug\net6.0\ref\FeildsAndPropertyClassaWork.dll

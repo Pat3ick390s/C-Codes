@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\bin\Debug\PartitioningDataOperation.exe.config
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\bin\Debug\PartitioningDataOperation.exe
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\bin\Debug\PartitioningDataOperation.pdb
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\obj\Debug\PartitioningDataOperation.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\obj\Debug\PartitioningDataOperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\obj\Debug\PartitioningDataOperation.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\obj\Debug\PartitioningDataOperation.exe
+C:\Users\Student\source\repos\PartitioningDataOperation\PartitioningDataOperation\obj\Debug\PartitioningDataOperation.pdb

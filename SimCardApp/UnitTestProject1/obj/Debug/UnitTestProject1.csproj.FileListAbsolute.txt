@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\SimCardApp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SimCardApp\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

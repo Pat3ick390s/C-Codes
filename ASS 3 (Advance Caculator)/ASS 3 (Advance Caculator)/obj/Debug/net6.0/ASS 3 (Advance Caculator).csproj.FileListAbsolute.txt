@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).AssemblyInfo.cs
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\bin\Debug\net6.0\ASS 3 (Advance Caculator).exe
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\bin\Debug\net6.0\ASS 3 (Advance Caculator).deps.json
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\bin\Debug\net6.0\ASS 3 (Advance Caculator).runtimeconfig.json
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\bin\Debug\net6.0\ASS 3 (Advance Caculator).dll
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\bin\Debug\net6.0\ASS 3 (Advance Caculator).pdb
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).dll
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\refint\ASS 3 (Advance Caculator).dll
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).pdb
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ASS 3 (Advance Caculator).genruntimeconfig.cache
+C:\Users\Student\source\repos\ASS 3 (Advance Caculator)\ASS 3 (Advance Caculator)\obj\Debug\net6.0\ref\ASS 3 (Advance Caculator).dll

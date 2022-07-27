@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\bin\Debug\net6.0\JAMBAPP.exe
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\bin\Debug\net6.0\JAMBAPP.deps.json
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\bin\Debug\net6.0\JAMBAPP.runtimeconfig.json
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\bin\Debug\net6.0\JAMBAPP.dll
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\bin\Debug\net6.0\JAMBAPP.pdb
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.AssemblyInfo.cs
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.dll
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\refint\JAMBAPP.dll
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.pdb
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\JAMBAPP.genruntimeconfig.cache
+C:\Users\Student\source\repos\JAMBAPP\JAMBAPP\obj\Debug\net6.0\ref\JAMBAPP.dll

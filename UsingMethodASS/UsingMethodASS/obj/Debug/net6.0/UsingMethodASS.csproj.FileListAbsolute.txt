@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\bin\Debug\net6.0\UsingMethodASS.exe
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\bin\Debug\net6.0\UsingMethodASS.deps.json
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\bin\Debug\net6.0\UsingMethodASS.runtimeconfig.json
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\bin\Debug\net6.0\UsingMethodASS.dll
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\bin\Debug\net6.0\UsingMethodASS.pdb
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.AssemblyInfo.cs
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.dll
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\refint\UsingMethodASS.dll
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.pdb
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\UsingMethodASS.genruntimeconfig.cache
+C:\Users\Student\source\repos\UsingMethodASS\UsingMethodASS\obj\Debug\net6.0\ref\UsingMethodASS.dll

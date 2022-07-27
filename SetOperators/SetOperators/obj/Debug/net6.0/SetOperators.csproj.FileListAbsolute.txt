@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\SetOperators\SetOperators\bin\Debug\net6.0\SetOperators.exe
+C:\Users\Student\source\repos\SetOperators\SetOperators\bin\Debug\net6.0\SetOperators.deps.json
+C:\Users\Student\source\repos\SetOperators\SetOperators\bin\Debug\net6.0\SetOperators.runtimeconfig.json
+C:\Users\Student\source\repos\SetOperators\SetOperators\bin\Debug\net6.0\SetOperators.dll
+C:\Users\Student\source\repos\SetOperators\SetOperators\bin\Debug\net6.0\SetOperators.pdb
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.AssemblyInfo.cs
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.dll
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\refint\SetOperators.dll
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.pdb
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\SetOperators.genruntimeconfig.cache
+C:\Users\Student\source\repos\SetOperators\SetOperators\obj\Debug\net6.0\ref\SetOperators.dll

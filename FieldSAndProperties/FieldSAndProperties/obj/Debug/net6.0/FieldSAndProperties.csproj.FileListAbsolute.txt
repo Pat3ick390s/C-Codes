@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\bin\Debug\net6.0\FieldSAndProperties.exe
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\bin\Debug\net6.0\FieldSAndProperties.deps.json
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\bin\Debug\net6.0\FieldSAndProperties.runtimeconfig.json
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\bin\Debug\net6.0\FieldSAndProperties.dll
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\bin\Debug\net6.0\FieldSAndProperties.pdb
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.AssemblyInfo.cs
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.dll
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\refint\FieldSAndProperties.dll
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.pdb
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\FieldSAndProperties.genruntimeconfig.cache
+C:\Users\Student\source\repos\FieldSAndProperties\FieldSAndProperties\obj\Debug\net6.0\ref\FieldSAndProperties.dll

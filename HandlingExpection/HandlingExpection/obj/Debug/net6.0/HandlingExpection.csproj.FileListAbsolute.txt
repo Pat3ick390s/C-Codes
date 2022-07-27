@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\bin\Debug\net6.0\HandlingExpection.exe
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\bin\Debug\net6.0\HandlingExpection.deps.json
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\bin\Debug\net6.0\HandlingExpection.runtimeconfig.json
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\bin\Debug\net6.0\HandlingExpection.dll
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\bin\Debug\net6.0\HandlingExpection.pdb
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.AssemblyInfo.cs
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.dll
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\refint\HandlingExpection.dll
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.pdb
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\HandlingExpection.genruntimeconfig.cache
+C:\Users\Student\source\repos\HandlingExpection\HandlingExpection\obj\Debug\net6.0\ref\HandlingExpection.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.AssemblyInfo.cs
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\StaticModify\StaticModify\bin\Debug\net6.0\StaticModify.exe
+C:\Users\Student\source\repos\StaticModify\StaticModify\bin\Debug\net6.0\StaticModify.deps.json
+C:\Users\Student\source\repos\StaticModify\StaticModify\bin\Debug\net6.0\StaticModify.runtimeconfig.json
+C:\Users\Student\source\repos\StaticModify\StaticModify\bin\Debug\net6.0\StaticModify.dll
+C:\Users\Student\source\repos\StaticModify\StaticModify\bin\Debug\net6.0\StaticModify.pdb
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.dll
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\refint\StaticModify.dll
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.pdb
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\StaticModify.genruntimeconfig.cache
+C:\Users\Student\source\repos\StaticModify\StaticModify\obj\Debug\net6.0\ref\StaticModify.dll

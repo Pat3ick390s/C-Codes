@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\bin\Debug\net6.0\QUIZASS.exe
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\bin\Debug\net6.0\QUIZASS.deps.json
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\bin\Debug\net6.0\QUIZASS.runtimeconfig.json
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\bin\Debug\net6.0\QUIZASS.dll
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\bin\Debug\net6.0\QUIZASS.pdb
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.AssemblyInfo.cs
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.dll
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\refint\QUIZASS.dll
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.pdb
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\QUIZASS.genruntimeconfig.cache
+C:\Users\Student\source\repos\QUIZASS\QUIZASS\obj\Debug\net6.0\ref\QUIZASS.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\bin\Debug\net6.0\ASS 2 (CACULATOR).exe
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\bin\Debug\net6.0\ASS 2 (CACULATOR).deps.json
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\bin\Debug\net6.0\ASS 2 (CACULATOR).runtimeconfig.json
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\bin\Debug\net6.0\ASS 2 (CACULATOR).dll
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\bin\Debug\net6.0\ASS 2 (CACULATOR).pdb
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).AssemblyInfo.cs
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).dll
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\refint\ASS 2 (CACULATOR).dll
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).pdb
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ASS 2 (CACULATOR).genruntimeconfig.cache
+C:\Users\Student\source\repos\ASS 2 (CACULATOR)\ASS 2 (CACULATOR)\obj\Debug\net6.0\ref\ASS 2 (CACULATOR).dll

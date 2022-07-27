@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ASS 3 (Advance Caculator)/1.0.0": {
+        "runtime": {
+          "ASS 3 (Advance Caculator).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASS 3 (Advance Caculator)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

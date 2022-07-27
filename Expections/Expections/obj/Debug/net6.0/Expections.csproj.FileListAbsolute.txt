@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Expections\Expections\bin\Debug\net6.0\Expections.exe
+C:\Users\Student\source\repos\Expections\Expections\bin\Debug\net6.0\Expections.deps.json
+C:\Users\Student\source\repos\Expections\Expections\bin\Debug\net6.0\Expections.runtimeconfig.json
+C:\Users\Student\source\repos\Expections\Expections\bin\Debug\net6.0\Expections.dll
+C:\Users\Student\source\repos\Expections\Expections\bin\Debug\net6.0\Expections.pdb
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.AssemblyInfo.cs
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.dll
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\refint\Expections.dll
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.pdb
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\Expections.genruntimeconfig.cache
+C:\Users\Student\source\repos\Expections\Expections\obj\Debug\net6.0\ref\Expections.dll

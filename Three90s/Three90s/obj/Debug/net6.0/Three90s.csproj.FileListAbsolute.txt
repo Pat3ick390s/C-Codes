@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Three90s\Three90s\bin\Debug\net6.0\Three90s.exe
+C:\Users\Student\source\repos\Three90s\Three90s\bin\Debug\net6.0\Three90s.deps.json
+C:\Users\Student\source\repos\Three90s\Three90s\bin\Debug\net6.0\Three90s.runtimeconfig.json
+C:\Users\Student\source\repos\Three90s\Three90s\bin\Debug\net6.0\Three90s.dll
+C:\Users\Student\source\repos\Three90s\Three90s\bin\Debug\net6.0\Three90s.pdb
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.AssemblyInfo.cs
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.dll
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\refint\Three90s.dll
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.pdb
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\Three90s.genruntimeconfig.cache
+C:\Users\Student\source\repos\Three90s\Three90s\obj\Debug\net6.0\ref\Three90s.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ASS 2 (CACULATOR)/1.0.0": {
+        "runtime": {
+          "ASS 2 (CACULATOR).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASS 2 (CACULATOR)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

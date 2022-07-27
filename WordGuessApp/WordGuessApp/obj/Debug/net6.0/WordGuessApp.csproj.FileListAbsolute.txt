@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\bin\Debug\net6.0\WordGuessApp.exe
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\bin\Debug\net6.0\WordGuessApp.deps.json
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\bin\Debug\net6.0\WordGuessApp.runtimeconfig.json
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\bin\Debug\net6.0\WordGuessApp.dll
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\bin\Debug\net6.0\WordGuessApp.pdb
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.dll
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\refint\WordGuessApp.dll
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.pdb
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\WordGuessApp.genruntimeconfig.cache
+C:\Users\Student\source\repos\WordGuessApp\WordGuessApp\obj\Debug\net6.0\ref\WordGuessApp.dll

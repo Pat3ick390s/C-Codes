@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net6.0\DictionaryAss.exe
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net6.0\DictionaryAss.deps.json
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net6.0\DictionaryAss.runtimeconfig.json
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net6.0\DictionaryAss.dll
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\bin\Debug\net6.0\DictionaryAss.pdb
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.AssemblyInfo.cs
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.dll
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\refint\DictionaryAss.dll
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.pdb
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\DictionaryAss.genruntimeconfig.cache
+C:\Users\Student\source\repos\DictionaryAss\DictionaryAss\obj\Debug\net6.0\ref\DictionaryAss.dll

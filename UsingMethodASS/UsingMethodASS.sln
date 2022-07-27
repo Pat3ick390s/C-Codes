@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMethodASS", "UsingMethodASS\UsingMethodASS.csproj", "{81EA6644-CDC0-4EC5-B975-51E7F13CFC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81EA6644-CDC0-4EC5-B975-51E7F13CFC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EA6644-CDC0-4EC5-B975-51E7F13CFC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EA6644-CDC0-4EC5-B975-51E7F13CFC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EA6644-CDC0-4EC5-B975-51E7F13CFC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F8CA445-CD6A-4D28-A2B7-A82F1AFA2B04}
+	EndGlobalSection
+EndGlobal

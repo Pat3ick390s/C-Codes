@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\bin\Debug\net6.0\QantiferAssignment.exe
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\bin\Debug\net6.0\QantiferAssignment.deps.json
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\bin\Debug\net6.0\QantiferAssignment.runtimeconfig.json
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\bin\Debug\net6.0\QantiferAssignment.dll
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\bin\Debug\net6.0\QantiferAssignment.pdb
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.AssemblyInfo.cs
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.dll
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\refint\QantiferAssignment.dll
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.pdb
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\QantiferAssignment.genruntimeconfig.cache
+C:\Users\Student\source\repos\QantiferAssignment\QantiferAssignment\obj\Debug\net6.0\ref\QantiferAssignment.dll
