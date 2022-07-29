@@ -40,7 +40,7 @@ namespace FileMoverApplication
                         {
                             File.Move(item, $"{DestinationFoder} {Path.GetFileName(item)}");
                         }
-                        catch (Exception err)
+                        catch (IOException err)
                         {
                             Console.WriteLine("SORRY, IMAGE ALEADY EXIST");
                         }
