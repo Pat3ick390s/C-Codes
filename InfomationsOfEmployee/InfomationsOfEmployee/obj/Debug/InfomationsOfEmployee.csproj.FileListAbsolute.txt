@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\bin\Debug\InfomationsOfEmployee.exe.config
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\bin\Debug\InfomationsOfEmployee.exe
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\bin\Debug\InfomationsOfEmployee.pdb
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\obj\Debug\InfomationsOfEmployee.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\obj\Debug\InfomationsOfEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\obj\Debug\InfomationsOfEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\obj\Debug\InfomationsOfEmployee.exe
+C:\Users\Student\source\repos\InfomationsOfEmployee\InfomationsOfEmployee\obj\Debug\InfomationsOfEmployee.pdb
