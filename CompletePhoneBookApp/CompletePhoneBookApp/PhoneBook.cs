@@ -19,12 +19,12 @@ namespace CompletePhoneBookApp
                 phonebook.Add(name, phonenumber);
                 Console.WriteLine("Contact Saved Successful \n");
             }
-            catch(Exception)
+            catch (Exception)
             {
                 Console.WriteLine("Name Already Exist\n");
                 Console.WriteLine("Failied");
             }
-        }
+        }    
         //Viewing method.
         public void View(string name)
         {
@@ -61,7 +61,7 @@ namespace CompletePhoneBookApp
             }
             else
             {
-                Console.WriteLine("Contact Already Exist! \n")
+                Console.WriteLine("Contact Already Exist! \n");
             }
         }
     }
