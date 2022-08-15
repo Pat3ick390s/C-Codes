@@ -47,7 +47,7 @@ namespace CompletePhoneBookApp
                 else if(option == "Delete")
                 {
                     var name = spilt[1];
-                    var phonenumber = spilt[2];
+                    //var phonenumber = spilt[2];
                     Contact.Delete(name);
                 }
             }

@@ -17,12 +17,12 @@ namespace CompletePhoneBookApp
             try
             {
                 phonebook.Add(name, phonenumber);
-                Console.WriteLine("Contact Saved Successful \n");
+                Console.WriteLine($"Contact {name} have been Saved Successful As {phonenumber} \n");
             }
             catch (Exception)
             {
-                Console.WriteLine("Name Already Exist\n");
-                Console.WriteLine("Failied");
+                Console.WriteLine($"{name} Already Exist\n");
+                Console.WriteLine("Failied \n");
             }
         }    
         //Viewing method.
@@ -31,13 +31,14 @@ namespace CompletePhoneBookApp
 
             if (phonebook.ContainsKey(name))
             {
-                Console.WriteLine(phonebook[name] + "\n");
+                Console.WriteLine($"Phone Number: {phonebook[name]}" + "\n");
             }
             else
             {
-                Console.WriteLine("Sorry, Contact Does Not Exist");
+                Console.WriteLine($"Sorry, {name} Does Not Exist \n");
             }
         }
+
         //Update method.
         public void Update(string name, string phonenumber)
         { 
@@ -48,21 +49,22 @@ namespace CompletePhoneBookApp
             }
             else
             {
-                Console.WriteLine("Contact Already Exist ! \n");
+                Console.WriteLine($"Sorry, {name} Does Not Exist ! \n");
             }
         }
+
         //Deleting Method.
         public void Delete(string name)
         {
-            if (!phonebook.ContainsKey(name))
+            if (phonebook.ContainsKey(name))
             {
                 phonebook.Remove(name);
-                Console.WriteLine("You Delected This Contact!! \n");
+                Console.WriteLine($"You Delected This Contact called: {name}!! \n");
             }
             else
             {
-                Console.WriteLine("Contact Already Exist! \n");
+                Console.WriteLine($"{name} Already Exist  \n");
             }
         }
     }
-}
+} 
