@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\obj\Debug\ReservationApplication.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\obj\Debug\ReservationApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\obj\Debug\ReservationApplication.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\bin\Debug\ReservationApplication.exe.config
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\bin\Debug\ReservationApplication.exe
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\bin\Debug\ReservationApplication.pdb
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\obj\Debug\ReservationApplication.exe
+C:\Users\Student\source\repos\ReservationApplication\ReservationApplication\obj\Debug\ReservationApplication.pdb

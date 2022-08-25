@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "amEWAK4AWvaNwpe9/ci3tic51tWTt3yzIMiJ5Gpz5L1CLp+xSjcme9UAi0LoHtdaGpIQrdvflSZ0a+On0EhZYQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\ClassGroupWorkAirlineReservationSystem2\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit3TestAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "NUnit.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "coverlet.collector"
+    }
+  ]
+}

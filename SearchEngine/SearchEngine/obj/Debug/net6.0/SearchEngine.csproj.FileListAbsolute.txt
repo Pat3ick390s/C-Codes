@@ -1,0 +1,30 @@
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.exe
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.deps.json
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.runtimeconfig.json
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.dll
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\ref\SearchEngine.dll
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.pdb
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.AssemblyInfo.cs
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.dll
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\ref\SearchEngine.dll
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.pdb
+C:\Users\WINDOWS 10 PRO\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.genruntimeconfig.cache
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.exe
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.deps.json
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.runtimeconfig.json
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.dll
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\bin\Debug\net6.0\SearchEngine.pdb
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.AssemblyInfo.cs
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.dll
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\refint\SearchEngine.dll
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.pdb
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\SearchEngine.genruntimeconfig.cache
+C:\Users\Student\source\repos\SearchEngine\SearchEngine\obj\Debug\net6.0\ref\SearchEngine.dll
